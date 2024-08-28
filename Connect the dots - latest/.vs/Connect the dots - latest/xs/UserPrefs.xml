@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{38124CC2-8478-0407-DB86-D7131BC1486A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/main/CoinCounter.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/DotControl.cs" Line="87" Column="22" />
+      <File FileName="Assets/Scenes/main/CoinCounter.cs" Line="18" Column="11" />
+      <File FileName="Assets/Scenes/Scripts/LevelScriptt.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Connect the dots - latest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="main" expanded="True">
+                  <Node name="CoinCounter.cs" selected="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a389b0f-52b0-4972-85e4-856cbfe2741f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
